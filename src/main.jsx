@@ -6,7 +6,7 @@ import {
   Link,
 } from "react-router-dom";
 import App from "./App.jsx";
-import SignInPage from "./auth/sign-in/SignInPage.jsx";
+import SignInPage from "./auth/sign-in/SignInPage.js";
 
 const router = createBrowserRouter([
   {
